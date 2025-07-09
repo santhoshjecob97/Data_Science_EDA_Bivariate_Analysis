@@ -101,9 +101,7 @@ jupyter lab
 
 ---
 
-## 📹 Optional: Video Explanation
 
-> You’re encouraged to record a walkthrough of your approach for learning or job applications. See prompts in the inferential notebook.
 
 ---
 
